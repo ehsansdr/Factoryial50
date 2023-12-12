@@ -6,11 +6,7 @@ public class Main {
     public static void main(String[] args) {
         //salam khedmat shoma ostad ahmadi
         //factorial 50 az class haye java estefade shode math va BigInteger dar khat 1
-
-        //dddddddddddd
-        //it is ddd235
-        /*********************/
-        //it is for ddd237
+        //it is from commit "main"
 
         //migitr add ro
         long n;// ba long chon milioni ham anjam mede
